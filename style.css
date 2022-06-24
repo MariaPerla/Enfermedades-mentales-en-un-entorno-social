@@ -1,0 +1,112 @@
+html, body {
+  
+  background-color: #e8edec;
+
+}
+
+li a {
+  display: block;
+  width: 40px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 40px;
+  background-color: silver;
+}   
+ li a {
+   display: block;
+   color: #0d0d0d;
+   padding: 9px 18px;
+   text-decoration: none;
+ }
+ /* Change the link color on hover*/  
+ li a:hover {
+   background-color: black;
+   color: white;
+ }
+li {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 90px;
+  height: 110%; /*Full height*/
+  position: fixed; /* Make it stick, even on scroll */
+  overflow: auto; /* Enable scrolling if the sidenav has too much content */
+}
+ul {
+  max-width: 100px;
+  margin: auto;
+  border: solid;
+}
+.cuerpo {
+ position: absolute;
+  text-align: left;
+  left: 110px;
+  max-width: 100%;
+}
+h1{
+  text-align: center;
+  border-radius: 50px;
+  background: silver;
+}
+
+.cuerpo {
+   position: absolute;
+   font-family: georgia;
+  margin: auto;
+  
+ 
+}
+.Referencias{
+  position: absolut;
+  list-style-type: none; 
+  
+}
+.titulo{
+  text-align: center;
+  border-radius: 50px;
+  background: silver;
+}
+
+.cuerpo2{
+  position: absolut;
+   font-family: georgia;
+  margin: auto;
+  text-align: 30%;  
+}
+.titulo2{
+   text-align: center;
+  border-radius: 50px;
+  background: silver;
+ 
+}
+.cuerpo2{
+  position: absolut;
+   font-family: georgia;
+  margin: auto;
+  text-align: 30%; 
+}
+img {
+  position: absolut;
+  border-radius: 50px;
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+h4{
+  text-align: center;
+  border-radius: 50px;
+  background: silver; 
+}
+p{
+  position: absolut;
+   font-family: georgia;
+  text-align: 30%; 
+} 
